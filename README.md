@@ -3,7 +3,7 @@
 
 **Course**: 遙測與空間資訊之分析與應用 | Remote Sensing Analysis & Applications  
 **Institution**: National Taiwan University (NTU)  
-**Instructor**: Prof. Su Wen-Ray (蘇文瑄教授)  
+**Instructor**: Prof. Su Wen-Ray 
 **Case Study**: Matai'an Barrier Lake (Typhoon Colo)  
 
 ---
